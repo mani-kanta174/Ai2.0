@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fd9200a-ce8e-47b7-a63c-e7c64830ccb8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/281f8dd5-3d26-48c7-909b-5002c3a86240" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70491568-beb1-437e-9e6a-a95e5f710ca3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/684132ca-7b1a-4ef4-b1b2-390ae861641f" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff1f5394-ae21-4baf-ac33-746b32f28f33" />
 	• Retrieval-Augmented Generation (RAG) is the process of optimizing the output of a large language model, so it references an authoritative knowledge base outside of its training data sources before generating a response. 
 	• Large Language Models (LLMs) are trained on vast volumes of data and use billions of parameters to generate original output for tasks like answering questions, translating languages, and completing sentences. 
